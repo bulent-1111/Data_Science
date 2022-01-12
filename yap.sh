@@ -1,4 +1,3 @@
-
 git add .
 echo " 'git add . ' yapildi"
 echo "Dosyalar eklendi."
