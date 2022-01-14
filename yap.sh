@@ -2,7 +2,7 @@ git add .
 echo " 'git add . ' yapildi"
 echo "Dosyalar eklendi."
 echo "........................."
-git commit -m  "pandas Read CSV code added"
+git commit -m  "pandas Read JSON code added"
 echo "commit yapildi"
 echo "........................."
 git push
