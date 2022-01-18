@@ -1,5 +1,4 @@
 git add .
-echo -e "\033[44m\033[37m Test \033[0m"
 echo " 'git add . ' yapildi"
 echo -e "\033[44m\033[37m.........................\033[0m"
 echo -e "\033[44m\033[37m.....Dosyalar eklendi....\033[0m"
