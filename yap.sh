@@ -2,7 +2,7 @@ git add .
 #echo -e "\033[44m\033[37m.........................\033[0m"
 echo -e "\033[44m\033[37m.....git add . yapildi...\033[0m"
 #echo -e "\033[44m\033[37m.........................\033[0m"
-git commit -m "python code added"
+git commit -m "Pandas code added"
 #echo -e "\033[44m\033[37m.........................\033[0m"
 echo -e "\033[44m\033[37m.....commit yapildi......\033[0m"
 #echo -e "\033[44m\033[37m.........................\033[0m"
