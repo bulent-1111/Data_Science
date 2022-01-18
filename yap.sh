@@ -1,7 +1,6 @@
 git add .
-echo " 'git add . ' yapildi"
 echo -e "\033[44m\033[37m.........................\033[0m"
-echo -e "\033[44m\033[37m.....Dosyalar eklendi....\033[0m"
+echo -e "\033[44m\033[37m.....git add . yapildi...\033[0m"
 echo -e "\033[44m\033[37m.........................\033[0m"
 git commit -m "python code added"
 echo -e "\033[44m\033[37m.........................\033[0m"
