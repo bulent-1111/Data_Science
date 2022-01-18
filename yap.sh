@@ -1,11 +1,14 @@
 git add .
 echo " 'git add . ' yapildi"
-echo "Dosyalar eklendi."
 echo "........................."
-git commit -m  "python code added"
-echo "commit yapildi"
+echo ".....Dosyalar eklendi...."
+echo "........................."
+git commit -m "python code added"
+echo "........................."
+echo ".....commit yapildi......"
 echo "........................."
 git push
-echo "push yapildi"
+echo "........................."
+echo ".....push yapildi........"
 echo "........................."
 
