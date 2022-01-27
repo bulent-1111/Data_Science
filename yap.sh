@@ -2,7 +2,7 @@
 git status
 # ls -al
 git add .
-#echo -e "\033[44m\033[37m.                       .\033[0m"
+echo -e "\033[44m\033[37m.                       .\033[0m"
 echo -e "\033[44m\033[37m.....git add . yapildi...\033[0m"
 #echo -e "\033[44m\033[37m.........................\033[0m"
 git commit -m "Python Pandas code added"
